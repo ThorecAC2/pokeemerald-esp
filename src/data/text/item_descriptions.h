@@ -1515,6 +1515,11 @@ static const u8 sAuroraTicketDesc[] = _(
     "para navegar hasta\n"
     "ISLA ORIGEN.");
 
+static const u8 sPowderJarDesc[] = _(
+    "Es para el POLVO\n"
+    "de BAYA que sale\n"
+    "del MACHACABAYAS.");
+
 static const u8 sRubyDesc[] = _(
     "Bella gema de brillo\n"
     "rojizo. Simboliza\n"
