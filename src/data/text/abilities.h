@@ -1,4 +1,4 @@
-static const u8 sNoneDescription[] = _("Ninguna en particular."); // Límite 27 caracteres
+static const u8 sNoneDescription[] = _("Ninguna en particular.");
 static const u8 sStenchDescription[] = _("Aleja a POKéMON salvajes.");
 static const u8 sDrizzleDescription[] = _("Hace que llueva en combate.");
 static const u8 sSpeedBoostDescription[] = _("Va subiendo la VELOCIDAD.");
