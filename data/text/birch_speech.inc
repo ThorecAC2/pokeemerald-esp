@@ -9,8 +9,8 @@ gText_Birch_Welcome::
 	.string "$"
 
 gText_Birch_Pokemon::
-	.string "This is what we call a “POKéMON.”\p"
-	.string "\n"
+	.string "Aquí tienes lo que\n"
+	.string "llamamos “POKéMON”.\p"
 	.string "$"
 
 gText_Birch_MainSpeech::
@@ -34,15 +34,14 @@ gText_Birch_AndYouAre::
 	.string "¿Tú quién eres?$"
 
 gText_Birch_BoyOrGirl::
-	.string "¿Eres un chico o una chica?\n"
-	.string "Or are you a girl?$"
+	.string "¿Eres un chico o una chica?$"
 
 gText_Birch_WhatsYourName::
 	.string "Muy bien.\n"
 	.string "¿Y cómo te llamas?$"
 
 gText_Birch_SoItsPlayer::
-	.string "Así que eres {PLAYER}{KUN}?$"
+	.string "Así que eres {PLAYER}{KUN}…$"
 
 gText_Birch_YourePlayer::
 	.string "¡Ah, sí, ya me acuerdo!\p"
@@ -53,7 +52,7 @@ gText_Birch_YourePlayer::
 
 gText_Birch_AreYouReady::
 	.string "Vale, escucha bien lo que te\n"
-	.string "voy a decir\p"
+	.string "voy a decir…\p"
 	.string "Tu propia aventura está a punto\n"
 	.string "de comenzar.\p"
 	.string "Adelante, entra en el mundo de los\n"
