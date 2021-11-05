@@ -1,58 +1,54 @@
 CableClub_Text_WelcomeWhichCableClubService:
-	.string "Welcome to the POKéMON CABLE\n"
-	.string "CLUB.\p"
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "Hola.\n"
+	.string "Éste es el CLUB del CABLE POKéMON.\p"
+	.string "¿Qué te apetece hacer?$"
 
 CableClub_Text_WhichService:
-	.string "Which of our services do you wish\n"
-	.string "to use?$"
+	.string "¿Qué podemos hacer por ti?$"
 
 CableClub_Text_TradeUsingLinkCable::
-	.string "Trade POKéMON with another player\n"
-	.string "using a GBA Game Link cable.$"
+	.string "Intercambiar PKMN con otro jugador\n"
+	.string "usando el cable Game Link de GBA.$"
 
 CableClub_Text_BattleUsingLinkCable::
-	.string "You may battle another TRAINER\n"
-	.string "using a GBA Game Link cable.$"
+	.string "Usando el cable Game Link de GBA,\n"
+	.string "podrás luchar contra alguien.$"
 
 CableClub_Text_RecordCornerUsingLinkCable::
-	.string "You can use the RECORD CORNER with\n"
-	.string "others using a GBA Game Link cable.$"
+	.string "Usa un cable Game Link de GBA para\n"
+	.string "jugar en el CENTRO de RÉCORDS.$"
 
 @ Unused
 CableClub_Text_CloseThisMenu:
 	.string "Close this menu.$"
 
 CableClub_Text_NeedTwoMonsForDoubleBattle:
-	.string "For a DOUBLE BATTLE, you must\n"
-	.string "have at least two POKéMON.$"
+	.string "Para un COMBATE DOBLE, necesitas\n"
+	.string "tener al menos dos POKéMON.$"
 
 CableClub_Text_NeedTwoMonsToTrade:
-	.string "For trading, you must have at\n"
-	.string "least two POKéMON with you.$"
+	.string "Para intercambiar POKéMON,\n"
+	.string "necesitas tener al menos dos.$"
 
 CableClub_Text_CantTradeEnigmaBerry:
-	.string "A POKéMON holding the {STR_VAR_1}\n"
-	.string "BERRY can't be traded.$"
+	.string "No puedes intercambiar el POKéMON\n"
+	.string "que tiene la BAYA {STR_VAR_1}.$"
 
 gText_PleaseWaitForLink::
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "Espera unos instantes.\n"
+	.string "Pulsa el Botón B para cancelar.$"
 
 gText_ConfirmLinkWhenPlayersReady::
-	.string "When all players are ready…\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "Cuando todos estén listos…\n"
+	.string "Botón A: confirmar   Botón B: cancelar$"
 
 gText_ConfirmStartLinkWithXPlayers::
-	.string "Start link with {STR_VAR_1} players.\n"
-	.string "A Button: Confirm\l"
-	.string "B Button: Cancel$"
+	.string "Comenzar conexión con {STR_VAR_1} jugadores…\n"
+	.string "Botón A: confirmar   Botón B: cancelar$"
 
 gText_AwaitingLinkup::
-	.string "Awaiting linkup…\n"
-	.string "… … B Button: Cancel$"
+	.string "Esperando conexión…\n"
+	.string "(…) Botón B: cancelar$"
 
 @ Unused
 CableClub_Text_OkayToSaveProgress::
@@ -60,59 +56,57 @@ CableClub_Text_OkayToSaveProgress::
 	.string "linking. Is it okay to save?$"
 
 CableClub_Text_PleaseEnter:
-	.string "Please enter.$"
+	.string "Adelante.$"
 
 CableClub_Text_DirectYouToYourRoom:
-	.string "I'll direct you to your room now.$"
+	.string "Te voy a llevar a tu sala.$"
 
 Text_SomeoneIsNotReadyToLink:
-	.string "Someone is not ready to link.\p"
-	.string "Please come back after everyone\n"
-	.string "has made preparations.$"
+	.string "Uno de los jugadores no está listo\n"
+	.string "para realizar la conexión.\p"
+	.string "Vuelve cuando todos estéis listos.$"
 
 Text_LinkErrorPleaseReset:
-	.string "Sorry, we have a link error…\n"
-	.string "Please reset and try again.$"
+	.string "Error de conexión…\n"
+	.string "Comprueba el cable Game Link, reinicia\l"
+	.string "la consola e inténtalo de nuevo.$"
 
 Text_PlayersMadeDifferentSelections:
-	.string "The link partners appear to have\n"
-	.string "made different selections.$"
+	.string "Los demás jugadores parecen haber\n"
+	.string "seleccionado opciones diferentes.$"
 
 CableClub_Text_PleaseVisitAgain:
-	.string "Please do visit again.$"
+	.string "Vuelve cuando quieras.$"
 
 CableClub_Text_IncorrectNumberOfParticipants:
-	.string "The number of participants is\n"
-	.string "incorrect.$"
+	.string "El número de jugadores no es correcto.$"
 
 CableClub_Text_CantSingleBattleWithXPlayers:
-	.string "The SINGLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "No se puede jugar al modo de combate\n"
+	.string "INDIVIDUAL con {STR_VAR_1} jugadores.$"
 
 CableClub_Text_CantDoubleBattleWithXPlayers:
-	.string "The DOUBLE BATTLE Mode can't be\n"
-	.string "played by {STR_VAR_1} players.$"
+	.string "No se puede jugar al modo de combate\n"
+	.string "DOBLE con {STR_VAR_1} jugadores.$"
 
 CableClub_Text_NeedFourPlayers:
-	.string "There must be four players to play\n"
-	.string "this Battle Mode.$"
+	.string "Se necesitan cuatro jugadores\n"
+	.string "para jugar a este modo de combate.$"
 
 CableClub_Text_PleaseConfirmNumberAndRestart:
-	.string "Please confirm the number of\n"
-	.string "players and start again.$"
+	.string "Confirma el número de jugadores\n"
+	.string "y vuelve a empezar.$"
 
 Text_TerminateLinkConfirmation:
-	.string "The link will be terminated if you\n"
-	.string "leave the room. Is that okay?$"
+	.string "Si sales de la sala, se pondrá fin\n"
+	.string "a la conexión. ¿Estás de acuerdo?$"
 
 Text_TerminateLinkPleaseWait:
-	.string "Terminating link…\n"
-	.string "You will be escorted out of\l"
-	.string "the room. Please wait.$"
+	.string "Finalizando conexión… Te acompañamos\n"
+	.string "fuera de la sala. Espera un momento.$"
 
 CableClub_Text_TooBusyToNotice:
-	.string "This TRAINER is too busy to\n"
-	.string "notice…$"
+	.string "Este ENTRENADOR no te hace ni caso…$"
 
 CableClub_Text_GotToLookAtTrainerCard:
 	.string "Score! Got to look at {STR_VAR_1}'s\n"
